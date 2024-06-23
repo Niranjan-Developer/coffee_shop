@@ -1,0 +1,22 @@
+a.menu-table{
+border:2px solid yellow;
+height:21%;
+width:45%;
+}
+.menu-caption{
+color:#0aa6ed;
+font-size:17px;
+}
+.table-heading{
+background-color:#e9800d;
+color:blue;
+}
+.out-of-stock:hover{
+background-color:red;
+}
+.in-stock:hover{
+background-color:green;
+}
+td{
+text-align:center;
+}
